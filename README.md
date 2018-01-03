@@ -6,7 +6,7 @@ Repository containing solutions for coding practice problems.
  - [Project Euler #2: Even Fibonacci numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002)
  - [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)
 
-#### Problem Set 2  (Deadline 03/01/2018)
+#### Problem Set 2  (Deadline 10/01/2018)
 
  - [Project Euler #10: Summation of primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010)
  - [Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem)
